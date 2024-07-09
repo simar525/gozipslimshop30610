@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bys.gobeyondslim.com/$1"
+ }
+  ]
+}
